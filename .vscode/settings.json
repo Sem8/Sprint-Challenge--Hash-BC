@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/briandoyle/.local/share/virtualenvs/sc-hash-bc-student-HSwDRd-G/bin/python"
+    "python.pythonPath": "C:\\Users\\Sem\\.virtualenvs\\Sprint-Challenge--Hash-BC-nzpkIGXQ\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
